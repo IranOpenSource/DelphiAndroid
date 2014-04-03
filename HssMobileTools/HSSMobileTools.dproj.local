@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/04/01 11:01:48.000.064,C:\Windows\system32\Projects\HSSMobileTools.dproj=D:\MyDocuments\RAD Studio\Projects\HSSMobileTools\HSSMobileTools.dproj</Transaction>
+    <Transaction>2014/04/01 12:03:48.000.607,=vclx.dcp</Transaction>
+    <Transaction>2014/04/01 12:03:48.000.593,=vclactnband.dcp</Transaction>
+    <Transaction>2014/04/01 12:03:48.000.549,=D:\MyDocuments\RAD Studio\Projects\HSSMobileTools\HssSMS\HssSMS.pas</Transaction>
+    <Transaction>2014/04/03 00:01:00.292,D:\MyDocuments\RAD Studio\Projects\HSSMobileTools\HSSBattery.pas=D:\MyDocuments\RAD Studio\Projects\HSSMobileTools\HSSBattery\HSSBattery.pas</Transaction>
+  </Transactions>
+</BorlandProject>
